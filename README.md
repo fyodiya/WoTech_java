@@ -1,2 +1,15 @@
-# WoTech_java
-WoTech 2024 - Java
+# Welcome to my repository for Java project!
+
+## My skills
+- Java
+- Python
+- Scala
+- SQL
+- Spark
+
+## My projects
+- Spark project
+- TicTacToe game /shared project
+
+## Contact me: 
+fyodiya@gmail.com
